@@ -18,4 +18,3 @@ def data_type(x):
   else:
     return "no value"
 
-print data_type("andela")
